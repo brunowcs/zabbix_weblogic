@@ -1,3 +1,3 @@
 # zabbix_weblogic
 
-brunocarvalho.net
+http://brunocarvalho.net/blog/2016/06/16/monitorando-weblogic-em-domainruntime-com-zabbix/
